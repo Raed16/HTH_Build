@@ -10,6 +10,13 @@ This dataset came from [this kaggle link](https://www.kaggle.com/datasets/ryansc
 
 No. | Question
 :-:|:-
-1 | What factors from a player's career influence their induction into the Hall of Fame the most ?
-2 | Is it better for a point guard to score more points or to get more assist ?
-3 | how many dog bites at 3 pm?
+1 | What location had the most significant amount of dog bites?
+2 | What percentage of people only got scratched by the dogs?
+3 | How many dog bites at 3 pm?
+4 | At what time did most dog bites happen?
+5 | Other than the leg what was the most popular spot to get bit?
+6 | How often would the ower get bit by their own dog?
+7 | What usually controlled the attack?
+8 | What was the average cost of treatment?
+9 | What date had the highest rate of bites in Dallas?
+10| Due to what circumstances led to a puncture? 
